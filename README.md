@@ -543,7 +543,7 @@ emotiondiary/
 ### 项目维护者 | Project Maintainer
 - **邮箱 | Email**: [zwan0569@student.monash.edu](mailto:zwan0569@student.monash.edu)
 - **机构 | Institution**: Monash University
-- **专业 | Major**: Computer Science / AI
+- **专业 | Major**: Computer Science
 
 ### 支持渠道 | Support Channels
 - **📧 技术支持 | Technical Support**: zwan0569@student.monash.edu
@@ -558,37 +558,6 @@ emotiondiary/
 
 ---
 
-## 📜 许可证 | License
-
-本项目采用 **MIT许可证** 开源发布。
-
-*This project is released under the **MIT License** as open source.*
-
-```
-MIT License
-
-Copyright (c) 2024 MoodMirror AI
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
 
 ## 🙏 致谢 | Acknowledgments
 
